@@ -1,0 +1,3 @@
+include ':aad'
+include ':app'
+rootProject.name = "AzureAdLib"
